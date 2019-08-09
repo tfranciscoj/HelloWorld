@@ -16,7 +16,7 @@
     // init function does:
     // 1. create a web3 object
     // 2. grabs abi from our contract and creates an instance of contract at the given address
-    // 3. call the function
+    // 3. call the function cb
 
 
     function getMessage(cb) {
